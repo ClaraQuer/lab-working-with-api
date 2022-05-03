@@ -5,3 +5,8 @@
 #### Instructions 
 
 Find 2 different APIs and combine them.
+
+- Requirements:
+ 
+ 1. Get useful information
+ 2. Use at least 2 APIs
